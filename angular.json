@@ -17,7 +17,7 @@
               "base": "docs",
               "browser": ""
             },
-            "baseHref": "/canadian-citizenship-quiz/",
+            "baseHref": "/",
             "browser": "src/main.ts",
             "polyfills": [
               "zone.js"
